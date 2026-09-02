@@ -99,7 +99,7 @@
         "DoubleGroupSeparator": ",",
         "DoubleDecimalSeparator": ".",
         "CurrentBuildNumber": "0.0.2.0",
-        "DBVersion": "55",
+        "DBVersion": "56",
         "FullDateTimeFormat": "dddd, MMMM d, yyyy h:mm:ss tt",
         "CultureName": "en-US"
       }
